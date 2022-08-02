@@ -1,5 +1,5 @@
 # maven-project
-#-------------
+
 # Build
 For building all projects use command:
 mvn install
